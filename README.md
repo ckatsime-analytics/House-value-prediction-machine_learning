@@ -24,7 +24,6 @@ Latitude & Longitude
 
 ## Models Used
 Linear Regression (Baseline Model)
-Ridge Regression (Regularization)
 XGBoost Regressor (Advanced Model)
 
 ## Key Techniques
@@ -58,7 +57,3 @@ Real estate companies estimate property values
 Buyers and sellers make informed decisions
 Analysts understand key drivers of housing prices
 
-## Limitations
-Limited feature engineering
-Dataset does not include real-time market conditions
-XGBoost model is less interpretable compared to linear models
