@@ -1,4 +1,4 @@
-## House vrice prediction using machine learning
+## House value prediction using machine learning
 
 ## Project Overview
 
